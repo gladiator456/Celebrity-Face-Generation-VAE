@@ -29,4 +29,4 @@ Below is the result of applying a heavy vector offset to the initial latent dime
 ## 🏃 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git](https://github.com/gladiator456/Celebrity-Face-Generation-VAE.git)
+   git clone [https://github.com/gladiator456/Celebrity-Face-Generation-VAE.git](https://github.com/gladiator456/Celebrity-Face-Generation-VAE.git)
